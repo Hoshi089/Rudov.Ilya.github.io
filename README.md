@@ -49,19 +49,19 @@ __Точка зрения:__ Программист
 [Проект RAMUS](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/%D0%A0%D1%83%D0%B4%D0%BE%D0%B2.rsf)
 
 # ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Potoki1.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml2.png)
 
-[код ее построения](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Potoki.txt)
+[код ее построения](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml2.txt)
 
 # ER-Диаграмма (диаграммы классов без атрибутов) для всех ролей
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Roles2.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml3.png)
 
-[код ее построения](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Roles.txt)
+[код ее построения](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml3.txt)
 
 # ER-Диаграмма (диаграммы классов без атрибутов) для всех модулей
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Modules1.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml1.png)
 
-[код ее построения](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Modules1.txt)
+[код ее построения](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml1.txt)
 
 # Расчетная часть
 
