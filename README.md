@@ -22,16 +22,16 @@ __Цель моделирования:__ Определение автомати
 __Точка зрения:__ Менеджер по продажам
 
 ## Контекстная диаграмма А0 "Обработка ПДн":
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/A00.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A0.png)
 
 ## Декомпозиция блока А0 "Обработка ПДн":
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/A0.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A0idef0.png)
 
 ## Декомпозиция блока А1 "Определение требований к форме анкетирования и персоналу:
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/A1.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A2idef0.png)
 
 ## Декомпозиция блока А3 "Загрузка ПДн":
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/A3n.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A3idef0.png)
 
 ## Определение основных средств автоматизации:
 
@@ -42,10 +42,10 @@ __Точка зрения:__ Менеджер по продажам
 -Определение допустимых видов хранилищ и их размещения - база данных на SQL сервере, память устройства.
 
 ## Декомпозиция блока А33 "Обработка полученных данных" в DFD:
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/A33.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A31dfd.png)
 
 ## Декомпозиция блока А4 "Контроль правомерности действий" в DFD:
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/A4.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A33dfd.png)
 [Проект RAMUS](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab4.rsf)
 
 # ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
