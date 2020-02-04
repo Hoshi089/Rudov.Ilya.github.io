@@ -89,18 +89,18 @@ _Вывод:_
 
 Расчет невыровненных функциональных точек:
 
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Ras1.PNG)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/u1.PNG)
 
 Определение числовых показателей для трудозатрат на разработку программных средств:
 
 _Методом FPA/IFPUG_
 
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Ras2.PNG)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/u2.PNG)
 
 Расчеты, выполненные первым методом FPA IFPUG, позволяют оценить сложность требуемых для создания информационной системы программных средств в 67 выровненных функциональных точек, а объем программного кода на языках программирования высокого уровня – 3283 строк кода.
 
 _Методом COCOMO II_
 
-![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Ras3.PNG)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/u3.PNG)
 
 Расчеты, выполненные вторым методом COCOMO II, позволяют оценить общие трудозатраты проекта разработки программных средств в 13 человеко-месяцев, а ожидаемую продолжительность проекта, создаваемого с нуля – в 8 месяцев. Решением этого ограничения является то, что проект находится в разработке с сентября этого года, а значит будет выполнен вовремя.
