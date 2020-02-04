@@ -46,7 +46,7 @@ __Точка зрения:__ Менеджер по продажам
 
 ## Декомпозиция блока А4 "Контроль правомерности действий" в DFD:
 ![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A33dfd.png)
-[Проект RAMUS](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Lab4.rsf)
+[Проект RAMUS](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/%D0%A0%D1%83%D0%B4%D0%BE%D0%B2.rsf)
 
 # ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
 ![Image alt](https://github.com/Hoshi089/VeronikaYakubova.github.io/blob/master/Potoki1.png)
