@@ -52,7 +52,7 @@ __Точка зрения:__ Программист
 [Проект RAMUS](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/%D0%A0%D1%83%D0%B4%D0%BE%D0%B2.rsf)
 
 # ER-Диаграмма (диаграммы классов без атрибутов) для всех потоков
-![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml2.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml4.png)
 
 [код ее построения](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml2.txt)
 
