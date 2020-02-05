@@ -57,7 +57,7 @@ __Точка зрения:__ Программист
 [код ее построения](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml2.txt)
 
 # ER-Диаграмма (диаграммы классов без атрибутов) для всех ролей
-![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml3.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml5.png)
 
 [код ее построения](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/uml3.txt)
 
