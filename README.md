@@ -44,6 +44,9 @@ __Точка зрения:__ Программист
 ## Декомпозиция блока А31 "Выбор одного из методов сортировки" в DFD:
 ![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A31dfd.png)
 
+## Декомпозиция блока А32 "Сортировка массива" в DFD:
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A32dfd.png)
+
 ## Декомпозиция блока А33 "Обработка данных" в DFD:
 ![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A33dfd.png)
 [Проект RAMUS](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/%D0%A0%D1%83%D0%B4%D0%BE%D0%B2.rsf)
