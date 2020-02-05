@@ -22,16 +22,16 @@ __Цель моделирования:__ Определение автомати
 __Точка зрения:__ Программист
 
 ## Контекстная диаграмма А0 "Автоматизация сортировки массивов":
-![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A0.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A0q.png)
 
 ## Декомпозиция блока А0 "Автоматизация сортировки массивов":
-![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A0idef0.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A0idef0q.png)
 
 ## Декомпозиция блока А2 "Подготовка ПО":
-![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A2idef0.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A2idef0q.png)
 
 ## Декомпозиция блока А3 "Сортировка массива":
-![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A3idef0.png)
+![Image alt](https://github.com/Hoshi089/Rudov.Ilya.github.io/blob/master/A3idef0q.png)
 
 ## Определение основных средств автоматизации:
 
